@@ -1,0 +1,31 @@
+Innovative applications of AI such as small language models are expected to drive enterprise productivity and save costs from a more practical point of view, said tech company executives.
+
+Siemens Industrial Automation Products (Chengdu) Ltd in Chengdu, Sichuan province, as a world-class digitalized factory, has adopted a range of digital concepts and methods in practical applications to enhance production efficiency and quality.
+
+"We began applying small language models early on, particularly in production areas like machine vision," said Yang Jian, IT department manager at the company.
+
+For example, in waste sorting, raw materials processed into waste generate metals, plastics and paper, previously, the vision recognition accuracy was only about 85 percent. By using small model training, such as leveraging the open-source OpenCV framework, the factory has improved accuracy to over 95 percent, significantly enhancing sorting efficiency, Yang added.
+
+"Small language models are highly effective in production because they focus on specific applications and scenarios, with low error rates, ensuring quality and process control," he said.
+
+The local construction of a modular ecosystem for manufacturing operations with tech company Red Hat has greatly enhanced the system's flexibility and development efficiency, Yang said, adding that transitioning from a monolithic architecture to a microservices architecture has better-supported business needs, significantly improving user experience and work efficiency for production line workers.
+
+Small language models, believed to be "tiny but mighty", can be more easily fine-tuned to meet specific needs and perform well for simpler tasks, which makes them more accessible and easier to use for organizations with limited resources.
+
+Red Hat has in this regard leveraged small language models to generate data-driven AI models that are stable, secure, and tailored to meet the specific needs of different enterprises, said Victor Tsao, vice-president of open-source solutions provider Red Hat and general manager of Red Hat Greater China.
+
+"We have also significantly reduced the reliance on real data by using synthetic data, cutting the data volume to just one-thousandth of the original. The method not only reduces computational requirements, saving costs but also significantly lowers energy consumption, making it more environmentally friendly," he said.
+
+Tsao added that Red Hat's architecture also supports both open-source and closed-source models, offering businesses flexible options.
+
+On application scenarios, Tsao said the company has introduced the concept of "Open Innovation Labs", collaborating with clients' consulting teams to identify the most effective application scenarios in areas such as research and development, production, marketing, and customer support. By working closely with clients to explore how AI can be applied to their real-world scenarios, they start with small applications that successfully expand to larger-scale scenarios.
+
+"For the future of AI, I believe it is limitless and the key lies in application scenarios," the vice-president said.
+
+As a key user driving transformation and innovation through open-source technology, the Siemens factory has received the 2024 Red Hat Asia-Pacific Innovation Awards for effectively driving business process innovation, increasing productivity and enhancing resilience through advanced digital technologies.
+
+"With strategic deployment in China, the Asia-Pacific region became the first to realize the successful deployment of our open-source AI applications in production," Tsao said.
+
+Tsao added that this year marks Red Hat's 20th anniversary in China. With its dynamic economy, diverse culture, and massive consumer market, China offers vast growth opportunities for all kinds of enterprises.
+
+Technology, as the core driver of business development and innovation, is believed to shaping the business landscape in the Chinese market and Red Hat is beefing up efforts for higher-level cooperation with local partners to advance drive the implementation of AI applications, he said.

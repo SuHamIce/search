@@ -1,0 +1,13 @@
+During a parallel forum at the seventh Hongqiao International Economic Forum, experts and industrial leaders shared their perspectives on the boundless opportunities for the development of artificial intelligence (AI) and its potential to enhance industrial efficiency and drive substantial profits.
+
+The forum, held as part of the ongoing China International Import Expo at the National Exhibition and Convention Center Shanghai from Nov 5 until 10, served as a platform for discussing the latest applications of AI across various sectors and offering insights into its future trajectory.
+
+Wu Hua, chair of the Baidu Technical Committee, emphasized the widespread adoption of AI across industries such as manufacturing, energy, transportation and finance. However, she noted that the development of multi-modal large models capable of integrating language, voice and visual learning is still in its nascent stages.
+
+In a video speech, Joseph Sifakis, the 2007 Turing Award winner, expressed his belief that autonomous systems represent the pinnacle of AI development. He highlighted that the industrial evolution of AI is just beginning and success hinges on the advancement of AI-enabled agents and autonomous systems.
+
+Sifakis underscored the importance of technical and scientific support in advancing industrial AI, citing the need for complementary technologies like specific AI hardware components and memory technologies to establish a comprehensive knowledge repository.
+
+Meng Pu, chairman of Qualcomm China, emphasized the significant economic benefits that AI can bring, estimating that generative AI could generate annual profits ranging from $2.6 trillion to $4.4 trillion globally. He highlighted the growing importance of hybrid AI, which combines AI processing at the edge and in the cloud, as a major trend in the field.
+
+Meng stressed the pivotal role of 5G technology in expanding the application scenarios of AI to areas such as productivity, content creation, and manufacturing by bridging the gap between edge computing and cloud services. The innovative applications of AI in image and video creation, text summarization, and intelligent agents are poised to drive this shift towards hybrid AI and unlock new possibilities for businesses and industries worldwide, he said.
